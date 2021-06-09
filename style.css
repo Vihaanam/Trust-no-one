@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: 'Dancing Script', cursive !important;
+}
+section {
+    width: 90%;
+    margin: auto;
+}
+h1 {
+    font-size: 50px !important;
+}
+.part {
+    padding-top: 390px;
+    padding-bottom: 390px;
+    background-color: lightyellow;
+    text-align: center;
+}
+.centertoleft {
+    text-align: left;
+    padding-left: 20px;
+}
